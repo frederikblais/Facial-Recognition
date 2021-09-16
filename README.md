@@ -16,4 +16,4 @@ src/ImageAttendance
 
 ### Run file
 
-python3 src/distinguish.py
+`python3 src/distinguish.py`
