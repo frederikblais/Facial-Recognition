@@ -6,6 +6,6 @@
 
 `$git clone https://github.com/frederikblais/Facial-Recognition.git`
 
-### Create venv
+### Connect to virtual environment
 
-`$conda activate base`
+`$conda activate <nameOfEnv>`
