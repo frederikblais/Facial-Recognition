@@ -3,11 +3,11 @@ import numpy as np
 import face_recognition
 import os
 
-pathToImage = 'src/ImageAttendance'
+pathToImage = '.venv/ImageAttendance'
 listOfImages = os.listdir(pathToImage)
 print(listOfImages)
 
-path = 'src/ImageAttendance'
+path = '.venv/ImageAttendance'
 images = []
 classNames = []
 studentNames = []
